@@ -1,0 +1,2 @@
+# Facebook-API-Python--Photo-Location
+I want to extract from my google photos the Location of the photos and put it in a dataframe. I just wanted to created a database with all the places I have been lately.   We can also use this to analyse events (I put an example here for yoga related events), groups, analyse your activity, marketing research, etc. on Facebook.   Practice skills: Facebook Graph API, python DataFrame 
